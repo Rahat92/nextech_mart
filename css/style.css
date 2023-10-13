@@ -1,0 +1,19 @@
+.section_3_box1 {
+  background: url("../Assets/Images/section3_image1.png");
+}
+.section_3_box2 {
+  background: url("../Assets/Images/section3_image2.png");
+}
+.section_3_box3 {
+  background: url("../Assets/Images/section3_image3.png");
+}
+.section_3_box4 {
+  background: url("../Assets/Images/section3_image4.png");
+}
+
+.section_2 {
+  background-image: url("../Assets/Images/hero_image.png");
+  background-position: right top;
+  background-repeat: no-repeat;
+  background-origin: border-box;
+}
