@@ -18,3 +18,10 @@
   background-repeat: no-repeat;
   background-origin: border-box; */
 }
+
+input {
+  
+}
+input::placeholder {
+  padding-left: 1rem;
+}
