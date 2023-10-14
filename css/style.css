@@ -2,6 +2,7 @@
   background: url("../Assets/Images/section3_image1.png");
 }
 .section_3_box2 {
+
   background: url("../Assets/Images/section3_image2.png");
 }
 .section_3_box3 {
@@ -12,11 +13,7 @@
 }
 
 .section_2 {
-  /* background-image: url("../Assets/Images/hero_image.png");
-  width: 100%;
-  background-position: right top;
-  background-repeat: no-repeat;
-  background-origin: border-box; */
+ 
 }
 
 input {
